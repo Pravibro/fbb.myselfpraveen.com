@@ -1,0 +1,9 @@
+.wrap { 
+    overflow: auto;
+}
+
+iframe, object, embed {
+    min-height: 100%;
+    min-width: 100%;
+    overflow: auto;
+}
